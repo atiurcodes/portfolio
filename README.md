@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Personal Portfolio 🌐
 
-## Getting Started
+A personal portfolio website built with **Next.js** to showcase my skills, projects, and learning journey as a web developer.
 
-First, run the development server:
+This project is part of my practice while learning modern web development.
+
+## 📌 About The Project
+
+This portfolio website is designed to introduce myself as a developer and showcase my work, skills, and projects in one place.
+
+I built this project to practice working with **Next.js, React, and Tailwind CSS** and to create a simple personal web presence.
+
+## ✨ Features
+
+* 👨‍💻 Personal introduction
+* 🛠️ Skills section
+* 📂 Projects showcase
+* 📱 Responsive layout
+* 🎨 Clean and modern UI
+* 🌐 Personal portfolio sections
+* 📞 Contact information
+
+## 🛠️ Technologies Used
+
+* Next.js
+* React
+* Tailwind CSS
+* JavaScript
+* HTML
+* CSS
+
+## 📂 Project Structure
+
+```text
+portfolio/
+├── assets/
+├── public/
+├── src/
+│   └── app/
+├── package.json
+├── next.config.mjs
+├── jsconfig.json
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/atiurcodes/portfolio.git
+```
+
+### Go to the project folder
+
+```bash
+cd portfolio
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📚 What I Learned
 
-## Learn More
+Through this project, I practiced:
 
-To learn more about Next.js, take a look at the following resources:
+* Building a portfolio with Next.js
+* Creating React components
+* Working with Tailwind CSS
+* Organizing a Next.js project
+* Creating responsive layouts
+* Managing assets
+* Improving UI design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Learning Purpose
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This portfolio represents my current learning journey in web development.
 
-## Deploy on Vercel
+I am continuously learning new technologies and improving my development skills through projects and practice.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👨‍💻 About Me
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Hi, I'm **Atiur Rahman**, a learner and aspiring web developer.
+
+I am currently improving my skills in modern web development and working toward becoming a **Full Stack Web Developer**.
+
+## 🔗 Connect With Me
+
+* GitHub: https://github.com/atiurcodes
+
+---
+
+⭐ Thanks for visiting my portfolio repository!
