@@ -5,7 +5,7 @@ A personal portfolio website built with **Next.js** to showcase my skills, proje
 This project is part of my practice while learning modern web development.
 
 🌐 Live Demo
-🔗 Live Website: https://genflyo-website.vercel.app/
+🔗 Live Website: https://nextjs-portfolio-pi-silk.vercel.app/
 
 ## 📌 About The Project
 
